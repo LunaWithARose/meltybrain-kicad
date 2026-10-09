@@ -1,0 +1,9 @@
+# KiCad temporary and backup files
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-bak
+*.bck
+*.log
+*-cache.lib
+*.kicad_prl
