@@ -39,6 +39,25 @@ The board layout is being developed with consideration for component placement, 
 
 *Three-dimensional rendering of the PCB.*
 
+Repository Structure
+```
+MeltyBrain-PCB/
+│
+├── README.md
+│
+├── images/
+│       ├── melty-front.png
+│       ├── melty-back.png
+│       ├── melty-3d-front.png
+│       └── melty-3d-back.png
+│
+├── hardware/
+    ├── schematics
+    └── pcbs
+```
+
+Directory structure is a suggested organization; adjust it to match the actual repository contents.
+
 ## Engineering Considerations
 
 Several considerations are important throughout the design process:
