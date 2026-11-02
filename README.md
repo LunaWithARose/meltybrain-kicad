@@ -1,7 +1,7 @@
 # MeltyBrain PCB
-### Custom Electronics for a Melty Brain Combat Robot
+### Custom printed circuit board for a Melty Brain Combat Robot
 
-![PCB Overview](docs/images/pcb-overview.png)
+![PCB Overview](images/melty-3d-front.png)
 
 ## Overview
 
@@ -26,11 +26,16 @@ The board layout is being developed with consideration for component placement, 
 
 ### PCB Layout
 
-![PCB Front Layout](docs/images/pcb-front.png)
+![PCB Front Layout](images/melty-front.png)
 
 *Top-side PCB layout showing component placement and routing.*
 
-![PCB 3D Render](docs/images/pcb-3d.png)
+![PCB Back Layout](images/melty-back.png)
+
+*Back-side PCB layout showing component placement and routing.*
+
+![PCB 3D Front Render](images/melty-3d-front.png)
+![PCB 3D Back Render](images/melty-3d-back.png)
 
 *Three-dimensional rendering of the PCB.*
 
