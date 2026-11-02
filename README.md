@@ -1,7 +1,7 @@
 # MeltyBrain PCB
 ### Custom printed circuit board for a Melty Brain Combat Robot
 
-![PCB Overview](images/melty-3d-front.png)
+<img src="https://github.com/LunaWithARose/meltybrain-kicad/blob/main/images/melty-3d-front.png" width="40%">
 
 ## Overview
 
@@ -26,16 +26,16 @@ The board layout is being developed with consideration for component placement, 
 
 ### PCB Layout
 
-![PCB Front Layout](images/melty-front.png)
+<img src="https://github.com/LunaWithARose/meltybrain-kicad/blob/main/images/melty-front.png" width="40%">
 
 *Top-side PCB layout showing component placement and routing.*
 
-![PCB Back Layout](images/melty-back.png)
+<img src="https://github.com/LunaWithARose/meltybrain-kicad/blob/main/images/melty-back.png" width="40%">
 
 *Back-side PCB layout showing component placement and routing.*
 
-![PCB 3D Front Render](images/melty-3d-front.png)
-![PCB 3D Back Render](images/melty-3d-back.png)
+<img src="https://github.com/LunaWithARose/meltybrain-kicad/blob/main/images/melty-3d-front.png" width="40%">
+<img src="https://github.com/LunaWithARose/meltybrain-kicad/blob/main/images/melty-3d-back.png" width="40%">
 
 *Three-dimensional rendering of the PCB.*
 
