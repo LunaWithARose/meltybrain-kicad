@@ -3145,16 +3145,6 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 125.73) (xy 113.03 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "04d3ae01-b9cd-4679-a146-9f377ef12f84")
-	)
-	(wire
-		(pts
 			(xy 130.81 73.66) (xy 134.62 73.66)
 		)
 		(stroke
@@ -3242,6 +3232,16 @@
 			(type default)
 		)
 		(uuid "2ecd7b4b-fa40-45c2-9884-1799795d0110")
+	)
+	(wire
+		(pts
+			(xy 149.86 105.41) (xy 143.51 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "326ec08e-26d5-410b-9d51-253ce3eca3a5")
 	)
 	(wire
 		(pts
@@ -3342,16 +3342,6 @@
 			(type default)
 		)
 		(uuid "7158fbfe-412f-46e0-8d0f-f952b931754b")
-	)
-	(wire
-		(pts
-			(xy 106.68 123.19) (xy 113.03 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "722986f8-eb29-49f8-a1cb-9648d3b73180")
 	)
 	(wire
 		(pts
@@ -3482,6 +3472,16 @@
 			(type default)
 		)
 		(uuid "a7a40bbf-7563-4857-b5fa-b5ec5be9ebbe")
+	)
+	(wire
+		(pts
+			(xy 149.86 140.97) (xy 143.51 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "abbd54ba-5e2f-4e87-b7fe-76211875b2cd")
 	)
 	(wire
 		(pts
@@ -3625,16 +3625,6 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 130.81) (xy 113.03 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dbe6b185-7580-4880-9063-762ad3a76700")
-	)
-	(wire
-		(pts
 			(xy 143.51 115.57) (xy 149.86 115.57)
 		)
 		(stroke
@@ -3662,6 +3652,16 @@
 			(type default)
 		)
 		(uuid "e6d1ee7f-554d-4f06-98e4-bb99bb75860b")
+	)
+	(wire
+		(pts
+			(xy 149.86 107.95) (xy 143.51 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb829826-aef3-42c5-85af-2916a2048fa4")
 	)
 	(wire
 		(pts
@@ -3733,16 +3733,6 @@
 		)
 		(uuid "07ac8b62-2d06-4f6b-9444-a9cf13078db5")
 	)
-	(label "INT2"
-		(at 106.68 130.81 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0bb717e8-3ce6-461d-90c3-1ab0f4e6f87b")
-	)
 	(label "D+"
 		(at 161.29 102.87 0)
 		(effects
@@ -3772,16 +3762,6 @@
 			(justify left bottom)
 		)
 		(uuid "19766af0-3e67-447d-9a7b-458226799870")
-	)
-	(label "CS1"
-		(at 106.68 125.73 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "1b50396c-7aaf-46fc-9f85-f61f25253c19")
 	)
 	(label "OLED1"
 		(at 167.64 69.85 0)
@@ -3843,6 +3823,16 @@
 		)
 		(uuid "46598f9c-19d7-4139-8318-f257d493ceee")
 	)
+	(label "CS1"
+		(at 149.86 105.41 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4ca265ba-abc2-46be-8ef1-e7d8500e6629")
+	)
 	(label "CLK"
 		(at 82.55 105.41 0)
 		(effects
@@ -3862,6 +3852,16 @@
 			(justify right bottom)
 		)
 		(uuid "5fd42021-a4d0-4b04-851d-db539ac93f0a")
+	)
+	(label "INT2"
+		(at 149.86 140.97 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "60aeac62-b269-4c84-b62f-bb03d7d7ebc1")
 	)
 	(label "M2"
 		(at 158.75 54.61 0)
@@ -4023,16 +4023,6 @@
 		)
 		(uuid "c65099dd-d97c-43e0-98d6-9572ea604c0a")
 	)
-	(label "CS2"
-		(at 106.68 123.19 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c794284c-1275-44bf-8d30-434e8a44d697")
-	)
 	(label "MOSI"
 		(at 82.55 107.95 0)
 		(effects
@@ -4042,6 +4032,16 @@
 			(justify left bottom)
 		)
 		(uuid "c7f00e06-6f8c-43dc-8637-d18dea4441c4")
+	)
+	(label "CS2"
+		(at 149.86 107.95 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "cebd51f8-07bc-4131-ab04-0f4cd386c8f6")
 	)
 	(label "D1+"
 		(at 146.05 102.87 0)
@@ -5204,7 +5204,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 107.95 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -6012,7 +6012,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 110.49 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -7320,7 +7320,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 105.41 115.57 0)
 			(hide yes)
 			(show_name no)
