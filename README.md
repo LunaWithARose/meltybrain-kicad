@@ -39,7 +39,7 @@ The board layout is being developed with consideration for component placement, 
 
 *Three-dimensional rendering of the PCB.*
 
-Repository Structure
+## Repository Structure
 ```
 MeltyBrain-PCB/
 │
